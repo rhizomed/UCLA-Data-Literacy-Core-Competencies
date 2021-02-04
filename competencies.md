@@ -14,7 +14,7 @@ The guiding questions and corresponding competencies are presented at three  int
 ### When do I have a data need? 
 #### Conceptual 
 What is data? 
-*Determine if your research question can be answered by a few observable claims (i.e., statistics), or if it requires a larger body of information to establish trends or patterns (i.e., a data set). 
+* Determine if your research question can be answered by a few observable claims (i.e., statistics), or if it requires a larger body of information to establish trends or patterns (i.e., a data set). 
 * Determine if your work relies on quantitative information (measurements, counts, rankings) or qualitative information (texts, surveys, opinions, words). 
 #### Basic 
 How is data used to answer research questions in my discipline? 
