@@ -51,18 +51,22 @@ How can I clean, analyze, and visualize data?
 * Analyze the structure of an existing data set, including unique information types, metadata, and variables in order to identify its intended use. 
 * Choose an analytical tool, or software, to analyze and visualize the information you collect. (Excel, SAS/SPSS, ArcGIS, R, etc.)
 #### Advanced 
-How can I ensure that data sets I create are organized, interpretable, and reusable? ● Arrange the data you collect in a platform-agnostic file format. (e.g. CSV, plain text files) 
+How can I ensure that data sets I create are organized, interpretable, and reusable? 
+* Arrange the data you collect in a platform-agnostic file format. (e.g. CSV, plain text files) 
 * Collect enough information to establish a pattern using methods that are common in your field. 
-●* Compare multiple analytical tools to determine the reproducibility of your analysis and visualization strategies. 
+* Compare multiple analytical tools to determine the reproducibility of your analysis and visualization strategies. 
 * Prioritize accessibility and readability when creating your data sets. 
 
 ### How do I manage, share, and preserve data and data-driven research? 
 #### Conceptual 
-How do I ensure that my research is accessible to a diverse audience? ● Define an inclusive audience for research and research data in your discipline. ● Identify barriers to accessing information within your discipline. 
+How do I ensure that my research is accessible to a diverse audience? 
+* Define an inclusive audience for research and research data in your discipline. 
+* Identify barriers to accessing information within your discipline. 
 * Prioritize best practices for ensuring privacy and the ethical handling of research subjects in your discipline. 
 #### Basic 
 How can I determine an appropriate format and platform for publishing my research data? 
-* Compare discipline-specific and general-purpose research data repositories. ● Identify an archive, or data repository, suitable for storing information that you collect. 
+* Compare discipline-specific and general-purpose research data repositories. 
+* Identify an archive, or data repository, suitable for storing information that you collect. 
 * Determine whether repositories adhere to best practices for managing, archiving, and preserving digital assets. 
 #### Advanced 
 What are some diverse modes of data and data-driven research publishing? How can I meaningfully engage audiences with my research? 
